@@ -44,7 +44,8 @@ Section 508: Chapter 6 - 602.3 Electronic Support Documentation
 
 Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are scoped for full pages, complete processes, and accessibility-supported ways of using technology as documented in the WCAG 2.0 Conformance Requirements.
 
-Table 1: WCAG Conformance Criteria
+### Table 1: WCAG Conformance Criteria
+
 | Criteria | Conformance Level | Remarks and Explanations |
 | -------- | ----------------- | ------------------------ |
 | 1.1.1 Non-text Content (Level A) | Not Applicable | The product has no non-text content |
