@@ -49,6 +49,7 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 | Criteria | Conformance Level | Remarks and Explanations |
 | -------- | ----------------- | ------------------------ |
 | 1.1.1 Non-text Content (Level A) | Not Applicable | The product has no non-text content |
+
 | 1.2.1 Audio-only and Video-only (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
 | 1.2.2 Captions (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
 | 1.2.3 Audio Description or Media Alternative (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
