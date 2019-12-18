@@ -109,7 +109,7 @@ These criteria are all Not Applicable because the product is not Hardware.
 
 ### Chapter 5: Software
 
-These criteria are all Not Applicable because the product is not software application.
+These criteria are all Not Applicable because the product is not an application.
 
 ### Chapter 6: Support Documentation and Services
 
