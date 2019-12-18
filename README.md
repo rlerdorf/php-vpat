@@ -115,12 +115,12 @@ These criteria are all Not Applicable because the product is not an application.
 
 | Criteria | Conformance Level | Remarks and Explanations |
 | -------- | ----------------- | ------------------------ |
-| 601.1 Scope | Heading cell – no response required | Heading cell – no response required |
-| 602 Support Documentation | Heading cell – no response required | Heading cell – no response required |
+| *601.1 Scope* | Heading cell – no response required | Heading cell – no response required |
+| *602 Support Documentation* | Heading cell – no response required | Heading cell – no response required |
 | 602.2 Accessibility and Compatibility Features | Supports |  |
 | 602.3 Electronic Support Documentation | See WCAG 2.0 section | See information in WCAG section |
 | 602.4 Alternate Formats for Non-Electronic Support Documentation | Not Applicable | No non-electronic documentation |
-| 603 Support Services | Heading cell – no response required | Heading cell – no response required |
+| *603 Support Services* | Heading cell – no response required | Heading cell – no response required |
 | 603.2 Information on Accessibility and Compatibility Features | Not Applicable | No support services |
 | 603.3 Accommodation of Communication Needs | Not Applicable | No support services |
 
