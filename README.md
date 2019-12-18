@@ -52,16 +52,12 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 | 1.2.1 Audio-only and Video-only (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
 | 1.2.2 Captions (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
 | 1.2.3 Audio Description or Media Alternative (Prerecorded) (Level A) | Not Applicable | The product has no audio/video content |
-
-| 1.3.1 Info and Relationships (Level A) | Supports | * Document uses headings and group relationships |
-|                                        |          | * Document components have appropriate labels |
-|                                        |          | * Groups of components are marked and their relationships described |
-|                                        |          | * Stylesheets are used for device-specific layout |
-|                                        |          | * Lists are contained within a List component |
-|                                        |          | * Tables are contained within a Table component and include row and column headers where appropriate |
+| 1.3.1 Info and Relationships (Level A) | Supports | * Document uses headings and group relationships<br> * Document components have appropriate labels<br> * Groups of components are marked and their relationships described<br> * Stylesheets are used for device-specific layout<br> * Lists are contained within a List component<br> * Tables are contained within a Table component and include row and column headers where appropriate |
 | 1.3.2 Meaningful Sequence(Level A)     | Supports | * The accessibility hierarchy is logical |
 | 1.3.3 Sensory Characteristics(Level A) | Supports | * Documentation does not refer to things solely based on their sensory characteristics such as shape, size, visual location, orientation, color, or sound |
 | 1.4.1 Use of Color(Level A)            | Supports | * No critical information is conveyed by color |
+
+
 | 1.4.2 Audio Control(Level A)           | Not Applicable | The product has no audio/video content |
 | 1.4.3 Contrast (Minimum) (Level AA)    | Supports | * Text and images of text have a contrast ratio of at least 4.5:1 |
 | 1.4.4 Resize text(Level AA)            | Supports | * Text resizes to any size due to the stylesheets used |
