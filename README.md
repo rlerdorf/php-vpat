@@ -68,14 +68,14 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 | 2.4.1 Bypass Blocks(Level A)           | Supports | Navigation components are in separate blocks and are easily bypassed with screen readers |
 | 2.4.2 Page Titled(Level A)             | Supports | Every page has an appropriate and relevant title |
 | 2.4.3 Focus Order(Level A)             | Supports | Keyboard controls provide a logical way to navigate between focusable components |
-| 2.4.4 Link Purpose (In Context)(Level A) | Supports | * The text around links sufficiently describe their purpose |
+| 2.4.4 Link Purpose (In Context)(Level A) | Supports | The text around links sufficiently describe their purpose |
 | 2.4.5 Multiple Ways(Level AA)          | Supports | * Pages can be found via a search on each page<br> * Simple keyboard controls let you move between pages |
 | 2.4.6 Headings and Labels(Level AA)    | Supports | * Headers describe the topic or purpose of the content below them<br> * Labels describe the purpose of the associated field |
 | 2.4.7 Focus Visible(Level AA)          | Supports | |
 | 3.1.1 Language of Page(Level A)        | Supports | Page locale/language is properly set through various mechanisms |
 | 3.1.2 Language of Parts(Level AA)      | Supports | Parts locale/language is properly set |
-| 3.2.1 On Focus(Level A) | Supports | * Changing focus does not result in any change to content displayed on the page |
-| 3.2.2 On Input(Level A) | Supports | * Input does not result in any change to content displayed on the page |
+| 3.2.1 On Focus(Level A) | Supports | Changing focus does not result in any change to content displayed on the page |
+| 3.2.2 On Input(Level A) | Supports | Input does not result in any change to content displayed on the page |
 | 3.2.3 Consistent Navigation(Level AA) | Supports | Pages are grouped logically and with simple navigation with repeated navigation mechanisms |
 | 3.2.4 Consistent Identification(Level AA) | Supports | Images and controls are used and identified consistently throughout the product |
 | 3.3.1 Error Identification(Level A) | Supports | Input errors are described logically |
